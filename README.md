@@ -45,6 +45,7 @@ public class SpawnScript : MonoBehaviour
     + https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
 2. Simple fx explosions
     + https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834
+    
 
 ## Post processing
 
@@ -62,3 +63,5 @@ Post processing used:
 ## To be added
 
 ~~More tank types~~
+
+> Development has stopped
